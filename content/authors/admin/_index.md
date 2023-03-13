@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ivan Korolev
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ivan
+last_name: Korolev
 
 # Status emoji
 status:
@@ -14,34 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of the People's Friendship University of Russia
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: People's Friendship University of Russia
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a first-year student of the RUDN University, Faculty of Physics and Mathematics, majoring in Fundamental Informatics and Information Technology. I study programming, study vatious mathematical subjects.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Programming
+  - Math subjects
+  - Computer science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: faculty of Physics and Mathematics, Fundamental Informatics and Information Technologies.
+      institution: RUDN University
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +68,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '1032225751@pfur.ru'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year student of the RUDN University, Faculty of Physics and Mathematics, majoring in Fundamental Informatics and Information Technology. I study programming, study vatious mathematical subjects.
+
 {style="text-align: justify;"}
