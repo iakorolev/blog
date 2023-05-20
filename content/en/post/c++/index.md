@@ -1,0 +1,109 @@
+---
+title: Who needs C++ and why?
+subtitle: Who needs C++ and why?
+
+# Summary for listings and search engines
+summary: Who needs C++ and why?
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: '2020-03-13T00:00:00Z'
+
+# Date updated
+lastmod: '2020-03-13T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [Git](https://leader-id.storage.yandexcloud.net/upload/3077661/cb3860f7-05a7-4012-9020-574087a10e3f.jpg)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
+authors:
+  - admin
+
+tags:
+  - Reports
+
+categories:
+  - post 2
+  
+---
+
+# The shortest history of C++
+
+The first versions of the C++ language (c-plus-plus, also called c-pi-pi and pluses) appeared in the early 1980s. Their creator is a Danish programmer from Bell Laboratories, Bjorn Stroustrup. He modeled the distribution of calls over PBXs (automatic telephone exchanges).
+
+At that time, Stroustrup had two types of languages: low-level languages and languages based on Fortran or Algol, which were very slow.
+
+Low-level languages give full control over computer resources: processor, memory, peripherals. But in such languages, there are few ready-made tools, which means that any complex concepts and functions will have to be coded by yourself. High-level languages already have all the necessary abstractions.
+
+Stroustrup combined the capabilities of object-oriented C and the Simula language based on Algol. The main innovation brought to C is classes, the basic element in object-oriented programming that contains data and the code that manages it.
+
+This is how "‎C with classes"‎ or "‎new C"‎ was born, which in 1983 received its final name - C ++. "++" is an operator that means "add one". That is, one more was added to the possibilities of the C language.
+
+# Main uses of C++
+
+* development of games and game engines (Unreal Engine, Unity);
+* GPU computing (cryptocurrency, deep learning);
+* development of high-load and high-performance applications.
+
+C++ is a productive language, it helps GPS roadmaps not to be stupid and build optimal routes, your favorite games not to lag and give maximum quality with graphics settings twisted to the limit, banking services to be around the clock, and transfers to be instant.
+
+Performance is an important characteristic of any computer game. Counter-Strike, StarCraft: Brood War, Diablo I, World of Warcraft - they all appeared a long time ago and were written in C ++, like the operating systems of the Xbox and PlayStation consoles, the cores of the popular Unreal Engine or Unity game engines, on the basis of which a huge number of 3D games, simulations, shooters and strategies.
+
+This is because in C ++ you can use object-oriented programming, and when necessary, turn to the low-level features of the language, which allow you to optimize the game well for specific platforms and perform calculations for graphics very efficiently. For the same reason, C++ is used in graphic editors (Adobe Photoshop).
+
+Thanks to parallelization (simultaneous execution of a large number of simple mathematical operations), the language is suitable for bitcoins and neural networks. The former can be mined in C++, the latter can be trained: most deep learning libraries (TensorFlow, Caffe, Shogun, Pytorch C++ API, etc.) use the C++ code of CUDA and OpenCL.
+
+C++ is indispensable for high-load applications, it is used to develop search engines, trading exchange robots, database management systems and network traffic routing.
+
+With the help of C ++, Mozilla Corporation developed the Firefox open source browser, Amadeus was created - an electronic booking system for air tickets, hotels, cruise tours and car rentals (5,000 transactions per second, more than a billion transactions per day pass through it), thanks to C ++ Yandex.Search and search engines work. Google engine.
+
+**C++ is needed not only for programmers, but also for:**
+
+* for technical artists: the link between ordinary artists and 3D modelers on a game project and game engine developers (who are very popular with C ++) needs to understand the language and understand how everything is programmed to solve problems;
+
+* for mathematicians: such typical problems of computational mathematics as solving systems of algebraic equations, differentiation and integration of functions, optimization, interpolation, extrapolation and approximation are solved using implementations of numerical methods in C ++;
+
+* physicists and chemists: environments and physical processes are modeled in C++;
+
+* musicians: yes, even them! These can be studies of acoustic effects, attempts to formalize the creative process, or even the creation of music: on “‎‎‎‎‎‎‎‎‎‎‎‎‎, people light up tracks generated by algorithms that a DJ programmer writes live on stage – this is real cyberpunk.
+
+
+**C++ is also cool because with it:**
+
+* write critical software for F-16 and F-35 fighter jets;
+
+* develop software packages and libraries ROOT for processing experimental data of high energy physics;
+
+* NASA rovers and the Hubble telescope fly on the surface of Mars;
+
+* does almost everything Microsoft (Windows OS, Office suite, Internet Explorer, Visual Studio);
+
+* create art (generative) artists: write algorithms for generating paintings and sculptures.
+
+# Pros and cons of the language
+
+## Pros
+
+* High performance because it does not impose any redundant load on a program that does not use any features.
+
+* Support for many programming styles (procedural programming, data abstraction, object-oriented programming and generic programming). Therefore, the developer can choose the style in which he writes the program.
+
+* Large community.
+
+## Minuses
+
+High entry threshold. Decisions about changes in C++ are made at committee meetings, in which any developer can formally participate. But it is difficult to go to such meetings in another country at your own expense, so most of the participants are representatives of large IT corporations such as Google, Yandex. But there are few representatives of the interests of students or startups. Therefore, experts may accept concepts that seem obvious to them, but which will be difficult for the rest of the audience.
+
+# Thank you for your attention!
