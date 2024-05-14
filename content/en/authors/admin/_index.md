@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ivan Korolev
+title: Ivan Korolev я ваня королёв
 
 # Full name (for SEO)
 first_name: Ivan
@@ -27,7 +27,7 @@ bio: I am a first-year student of the Faculty of Physics and Mathematics of the 
 # Interests to show in About widget
 interests:
   - Programming
-  - Math subjects
+  - Math subjects sffdsfs
   - Computer science
 
 # Education to show in About widget
