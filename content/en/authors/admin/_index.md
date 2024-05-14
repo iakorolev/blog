@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ivan Korolev я ваня королёв
+title: Ivan Korolev
 
 # Full name (for SEO)
 first_name: Ivan

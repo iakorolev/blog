@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Иван Королёв Андреевич
+title: Иван Королёв
 
 # Full name (for SEO)
 first_name: Иван
